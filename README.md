@@ -1,3 +1,4 @@
 # css-bootstap2
-![image](https://user-images.githubusercontent.com/106257987/171617873-ab395aba-e20a-4f43-967f-b57316746c71.png)
-![image](https://user-images.githubusercontent.com/106257987/171617886-4ee278c4-79fb-4462-874d-2ac5e2e4caa0.png)
+![image](https://user-images.githubusercontent.com/106257987/171618125-376c7cb1-22e5-4a21-b826-f71846c7b0b0.png)
+![image](https://user-images.githubusercontent.com/106257987/171618144-3553c163-d755-452f-acf1-21a0a2a809e7.png)
+
